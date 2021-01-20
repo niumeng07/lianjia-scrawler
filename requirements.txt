@@ -1,0 +1,11 @@
+appdirs
+beautifulsoup4
+bs4
+lxml
+MySQL-python
+packaging
+peewee==2.8.0
+psycopg2
+pyparsing
+requests
+six

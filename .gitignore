@@ -1,0 +1,11 @@
+nohup*
+*.swp
+
+.DS_Store
+*.pyc
+log
+
+data/*
+!data/*.xlsx
+!data/*.csv
+!data/ershoufang.sql.tar.gz
